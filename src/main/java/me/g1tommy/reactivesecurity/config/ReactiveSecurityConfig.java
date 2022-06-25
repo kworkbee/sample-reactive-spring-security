@@ -1,6 +1,6 @@
 package me.g1tommy.reactivesecurity.config;
 
-import me.g1tommy.reactivesecurity.domain.dto.RoleType;
+import me.g1tommy.reactivesecurity.domain.RoleType;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpMethod;

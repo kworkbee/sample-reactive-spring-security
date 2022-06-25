@@ -1,4 +1,4 @@
-package me.g1tommy.reactivesecurity.domain.dto;
+package me.g1tommy.reactivesecurity.domain;
 
 public enum RoleType {
     ROLE_ADMIN,
